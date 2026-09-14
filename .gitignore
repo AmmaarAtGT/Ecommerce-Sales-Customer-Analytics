@@ -1,0 +1,15 @@
+# Dataset
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Excel and temporary files
+*.xlsx
+*.xls
+*.tmp
