@@ -384,7 +384,9 @@ Ecommerce-Sales-Customer-Analytics/
 ## Conclusion
 
 This project demonstrates an end-to-end data analytics workflow, from raw data cleaning and exploratory analysis to advanced SQL analysis and business recommendations.
+## Dataset Availability
 
+The original dataset is not included in this repository because its file size exceeds GitHub's standard file upload limit. The analysis notebook contains the complete data-cleaning, transformation, analysis, and visualization workflow used for this project.
 The analysis highlights opportunities around customer retention, regional profitability, marketing measurement, delivery reliability, and return reduction.
 
 The project demonstrates practical skills in **Python, Pandas, NumPy, Matplotlib, SQL, data cleaning, exploratory data analysis, customer analytics, and business problem solving**.
